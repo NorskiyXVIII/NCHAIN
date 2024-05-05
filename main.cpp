@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 
-#include "block.hpp"
+#include "block/block.hpp"
 
 int main() {
     using std::to_string;
